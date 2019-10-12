@@ -16,7 +16,7 @@ file name: defined.txt
 lambda> ((Y g) 3)  
 (ls.(lz.(s (s (s (s (s (s z))))))))  
 
-Lambda term can be bind to a variable by bind term.
+Lambda term can be bound to a variable by bind term.
 
 lambda> (= id (lx.x))  
 lambda> (id a)  
