@@ -7,9 +7,9 @@ Prelude> runghc lambda.hs
 lambda> ((lx.x) a)  
 a  
 
-Greek character "lamda" is substituted by English lowercase 'l'. Parentheses are not to omitted. Abstreact term and Application terms need Parentheses both side. Application term needs space beteween terms.
+Greek character "lambda" is substituted by English lowercase 'l'. An abstraction term or an application term needs parentheses on both side of the term. Parentheses of abstraction terms and application terms are not to be omitted.  And an application term needs space beteween consisting two terms.
 
-Lambda caluculus interpreter can load presetting file by :load command.
+Lambda caluculus interpreter can load presetting file by ":load" command.
 
 lambda> :load  
 file name: defined.txt  
